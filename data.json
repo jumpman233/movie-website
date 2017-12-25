@@ -1,0 +1,25 @@
+[{
+	"title": "Pulp Fiction",
+	"story_line": "it's pulp fiction",
+	"img_url": "https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike220%2C5%2C5%2C220%2C73/sign=3c6610faf41fbe090853cb460a096756/b3119313b07eca802295166b972397dda04483ad.jpg",
+	"trailer_url": "https://www.youtube.com/watch?v=Mnb_3ibUp38",
+	"type": "crime"
+}, {
+	"title": "The Load of the Rings",
+	"story_line": "The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien",
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZvVWV9_aHI70suQojwb-LdyXCiwgGyonZIz_miXA7MGIZOjlKwSERw",
+	"trailer_url": "https://www.youtube.com/watch?v=rCZ3SN65kIs",
+	"type": "horror"
+}, {
+	"title": "Mission:Impossible",
+	"story_line": "Mission: Impossible went into pre-production without a shooting script. De Palma came up with some action sequences",
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLTdp8wdPV1wuGg6_aIsCl0skShIHRK2oxsvdmPZm3VOpDvTjDowSjg",
+	"trailer_url": "https://www.youtube.com/watch?v=pw-BZyc9RrU",
+	"type": "shooting"
+}, {
+	"title": "Forrest Gump",
+	"story_line": "Drama · JFK, LBJ, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+	"img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54Lh38UgLNy1QRZVLizHeD2gAY3NALikWQHtgfu2_r065ZuZds6Eg3Q",
+	"trailer_url": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+	"type": "inspirational"
+}]
